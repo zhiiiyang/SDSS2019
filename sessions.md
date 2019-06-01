@@ -8,6 +8,7 @@ Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2
 
 ### CS06 - Visual Storytelling
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
+
 Alberto Cairo [What You Design Is Not What People See](https://www.dropbox.com/s/nqhl6w9ey3jgnwe/SDSS2019_SHORT.pdf?dl=0)
 
 ### CS07 - Reimagining & Introducing New Pedagogy
