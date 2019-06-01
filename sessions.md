@@ -4,11 +4,21 @@ Amelia McNamara [Teaching Data Communication](https://www.amelia.mn/TeachingData
 ### CS06 - Visual Storytelling
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
 
+### CS07 - Reimagining & Introducing New Pedagogy
+Ted Laderas [Clinical Data Wrangling: An Active and Didactic Learning Workshop](https://github.com/laderast/clinical_data_wrangling/blob/master/docs/cdw_laderas.pptx)
+
+
 ### CS09 - Project Jupyter
 Chris Holdgraf [Open Infrastructure in the Cloud with JupyterHub](https://speakerdeck.com/choldgraf/open-infrastructure-in-the-cloud-with-jupyterhub)
 
+### CS10 - Data Science's X-Factor
+John Laudun [Data Science In/Among/With/Toward the Humanities](https://github.com/johnlaudun/SDSS2019/blob/master/paper-slides.pdf)
+
+
 ### CS15 - Linguistic Diversity in NLP
 Brandeis Hill Marshall [Learning the Language of BlackTwitter](https://docs.wixstatic.com/ugd/d6aa46_703f0dd9b71a4cd6b0b678947d11b489.pdf)
+
+Rachael Tatman [An Introduction to Computational Sociolinguistics](http://www.rctatman.com/files/Tatman_2019_CompSocio.pdf)
 
 Emily M. Bender [English Isn't Generic for Language, Despite What NLP Papers Might Lead You to Believe](http://faculty.washington.edu/ebender/papers/Bender-SDSS-2019.pdf)
 
@@ -21,6 +31,9 @@ Alison Hill [Using Blogdown to Connect Beyond the Classroom](https://alison.netl
 
 ### CS20 - Data Science Platforms: Spark
 Navdeep Gill [Interpretable Machine Learning Using rsparkling](https://github.com/navdeep-G/sdss-2019/blob/master/presentation/sdss_rsparkling_mli_2019.pdf)
+
+Javier Luraschi [Scaling Sparklyr with Streams and Arrow](http://rpubs.com/jluraschi/sdss-2019-spark)
+
 
 ### CS21 - A Field Guide to Education Tools in Data Science
 Adrienne Zell [Necessity Is the Mother of Invention: Evolution of a Data Science Team](https://drive.google.com/file/d/0B-WWS1eiVBKmVVFRUjhSbF80bjRRTnZhMmxIUjVaSVphSk9Z/view)
@@ -41,6 +54,9 @@ Classroom, and Slack](https://speakerdeck.com/stephaniehicks/useful-tools-for-te
 
 ### CS38 - Engaging Students in Statistics & Data Science
 Kelly Nicole Bodwin [Tools for R in Introductory Statistics Courses](https://github.com/kbodwin/Talks-and-Presentations/tree/master/SDSS_2019)
+
+### CS41 - Incorporating Ethics and Inclusion in Undergraduate Statistics Curriculum
+Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis of Social Network Data](http://www.science.smith.edu/~mott/SDSS2019.html)
 
 ### CS52 - Grammar of Graphics: From Theory to Applications
 
