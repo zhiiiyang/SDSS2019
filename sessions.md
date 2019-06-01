@@ -6,6 +6,9 @@ Amy Unruh ['ML Ops' and Productionizing Machine Learning Workflows](https://stor
 
 Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_05_30_SDSS_H2O_AutoML/h2o_automl_sdss_may2019.pdf)
 
+### CS03 - Open Source and Community
+Mara Averick [Sustainers of the Tidyverse](https://github.com/batpigandme/sdss-2019/blob/master/maverick_sustiners_of_the_tidyverse_sdss.pdf)
+
 
 ### CS06 - Visual Storytelling
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
@@ -21,6 +24,9 @@ Chris Holdgraf [Open Infrastructure in the Cloud with JupyterHub](https://speake
 
 ### CS10 - Data Science's X-Factor
 John Laudun [Data Science In/Among/With/Toward the Humanities](https://github.com/johnlaudun/SDSS2019/blob/master/paper-slides.pdf)
+
+### CS11 - Data Visualization in Python
+Stephen F. Elston [Introduction to Visualization with Python](https://github.com/StephenElston/SDSS2019VisualizatonW_Python/blob/master/DataVisualizationW_Python.pdf)
 
 
 ### CS15 - Linguistic Diversity in NLP
@@ -58,6 +64,8 @@ Michael Freeman [Teaching Data Visualization: Integrating Theory and Practice](h
 
 Jerzy Wieczorek [A Three-Part Data Visualization Curriculum](https://github.com/civilstat/SDSS-2019-DatavizEd/blob/master/slides/SDSS_Slides.pdf)
 
+### CS33 - Backend Data Science
+James Blair [Data Science with Databases and R](https://github.com/blairj09/dbds)
 
 ### CS36 - Democratizing Data Science with Workflows
 Michael I. Love [Publishing Literate Programming Workflows in Scientific Journals](https://docs.google.com/presentation/d/1qFUgYpHDmy68-oaaWS196zrsACtiyj2C65GZAjDDyNs/edit#slide=id.p)
@@ -69,6 +77,9 @@ Classroom, and Slack](https://speakerdeck.com/stephaniehicks/useful-tools-for-te
 
 ### CS38 - Engaging Students in Statistics & Data Science
 Kelly Nicole Bodwin [Tools for R in Introductory Statistics Courses](https://github.com/kbodwin/Talks-and-Presentations/tree/master/SDSS_2019)
+
+Daniela Huppenkothen [Hack Weeks as a Model for Data Science Education and Collaboration](https://github.com/dhuppenkothen/sdss-talk/blob/master/dhuppenkothen_sdss_talk.pdf)
+
 
 ### CS41 - Incorporating Ethics and Inclusion in Undergraduate Statistics Curriculum
 Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis of Social Network Data](http://www.science.smith.edu/~mott/SDSS2019.html)
@@ -84,4 +95,6 @@ Claus Wilke [ggplot2: An Extensible Platform for Publication-quality Graphics](h
 ### CS59 - Data Science Platforms: Docker and Kubernetes
 
 Colin Wiiter Rundel [Using Rocker Containers and CI for Teaching R-Based Courses](https://github.com/rundel/Presentations/blob/master/SDSS2019/rocker.pdf)
+
+Jim Harner [RsparkHub: Scaling Rspark with Kubernetes](https://github.com/jharner/SDSS2019ldocker-k8s/blob/master/docker-k8s.pdf)
 
