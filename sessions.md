@@ -3,9 +3,12 @@ Amelia McNamara [Teaching Data Communication](https://www.amelia.mn/TeachingData
 
 ### CS05 - Scaling Up Machine Learning to Production
 Amy Unruh ['ML Ops' and Productionizing Machine Learning Workflows](https://storage.googleapis.com/amy-jo/talks/SDSS19.pdf) 
+Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_05_30_SDSS_H2O_AutoML/h2o_automl_sdss_may2019.pdf)
+
 
 ### CS06 - Visual Storytelling
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
+Alberto Cairo [What You Design Is Not What People See](https://www.dropbox.com/s/nqhl6w9ey3jgnwe/SDSS2019_SHORT.pdf?dl=0)
 
 ### CS07 - Reimagining & Introducing New Pedagogy
 Ted Laderas [Clinical Data Wrangling: An Active and Didactic Learning Workshop](https://github.com/laderast/clinical_data_wrangling/blob/master/docs/cdw_laderas.pptx)
@@ -48,6 +51,8 @@ Mehar Singh [Creating Effective Data Science Teams](https://http://ow.ly/9e8n50u
 
 ### CS30 - Data Visualization Education
 Michael Freeman [Teaching Data Visualization: Integrating Theory and Practice](https://docs.google.com/presentation/d/1dO5mMqm3GTi8R-svr-QKbs81uaury0rlgIvZZg-SHcY/edit#slide=id.g199dea81af_1_0)
+Jerzy Wieczorek [A Three-Part Data Visualization Curriculum](https://github.com/civilstat/SDSS-2019-DatavizEd/blob/master/slides/SDSS_Slides.pdf)
+
 
 ### CS36 - Democratizing Data Science with Workflows
 Michael I. Love [Publishing Literate Programming Workflows in Scientific Journals](https://docs.google.com/presentation/d/1qFUgYpHDmy68-oaaWS196zrsACtiyj2C65GZAjDDyNs/edit#slide=id.p)
