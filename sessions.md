@@ -14,7 +14,10 @@ Emily M. Bender [English Isn't Generic for Language, Despite What NLP Papers Mig
 
 ### CS18 - Communication Within and Beyond the Modern Data Science/Statistics Classroom
 
+Albert Y. Kim [Using Slack for Communication and Collaboration in the Classroom](http://rudeboybert.rbind.io/talk/2019-05-30_SDSS.pdf)
 Alison Hill [Using Blogdown to Connect Beyond the Classroom](https://alison.netlify.com/sdss-blogdown/#1)
+
+
 
 ### CS20 - Data Science Platforms: Spark
 Navdeep Gill [Interpretable Machine Learning Using rsparkling](https://github.com/navdeep-G/sdss-2019/blob/master/presentation/sdss_rsparkling_mli_2019.pdf)
@@ -22,13 +25,28 @@ Navdeep Gill [Interpretable Machine Learning Using rsparkling](https://github.co
 ### CS21 - A Field Guide to Education Tools in Data Science
 Adrienne Zell [Necessity Is the Mother of Invention: Evolution of a Data Science Team](https://drive.google.com/file/d/0B-WWS1eiVBKmVVFRUjhSbF80bjRRTnZhMmxIUjVaSVphSk9Z/view)
 
+### CS22 - Building and Growing Data Science Teams
+Heather Nolis [Together at Last: Heterogeneous Teams and the Key to Success](http://bit.ly/tmo-sdss )
+Mehar Singh [Creating Effective Data Science Teams](https://http://ow.ly/9e8n50uu9rd)
+
+
+### CS30 - Data Visualization Education
+Michael Freeman [Teaching Data Visualization: Integrating Theory and Practice](https://docs.google.com/presentation/d/1dO5mMqm3GTi8R-svr-QKbs81uaury0rlgIvZZg-SHcY/edit#slide=id.g199dea81af_1_0)
+
 ### CS36 - Democratizing Data Science with Workflows
 Michael I. Love [Publishing Literate Programming Workflows in Scientific Journals](https://docs.google.com/presentation/d/1qFUgYpHDmy68-oaaWS196zrsACtiyj2C65GZAjDDyNs/edit#slide=id.p)
 Tiffany Timbers [When Should You Add Github, Make and Docker to Your Data Science Workflow?](https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html#1)
 Stephanie Hicks [Useful Tools for Teaching and Outreach in Data Science: Workflows, Case Studies, Github
 Classroom, and Slack](https://speakerdeck.com/stephaniehicks/useful-tools-for-teaching-and-outreach-in-data-science)
 
+### CS38 - Engaging Students in Statistics & Data Science
+Kelly Nicole Bodwin [Tools for R in Introductory Statistics Courses](https://github.com/kbodwin/Talks-and-Presentations/tree/master/SDSS_2019)
+
 ### CS52 - Grammar of Graphics: From Theory to Applications
 
 Claus Wilke [ggplot2: An Extensible Platform for Publication-quality Graphics](https://www.slideshare.net/ClausWilke/ggplot2-an-extensible-platform-for-publicationquality-graphics)
+
+### CS59 - Data Science Platforms: Docker and Kubernetes
+
+Colin Wiiter Rundel [Using Rocker Containers and CI for Teaching R-Based Courses](https://github.com/rundel/Presentations/blob/master/SDSS2019/rocker.pdf)
 
