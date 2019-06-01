@@ -31,6 +31,7 @@ Emily M. Bender [English Isn't Generic for Language, Despite What NLP Papers Mig
 ### CS18 - Communication Within and Beyond the Modern Data Science/Statistics Classroom
 
 Albert Y. Kim [Using Slack for Communication and Collaboration in the Classroom](http://rudeboybert.rbind.io/talk/2019-05-30_SDSS.pdf)
+
 Alison Hill [Using Blogdown to Connect Beyond the Classroom](https://alison.netlify.com/sdss-blogdown/#1)
 
 
@@ -46,17 +47,21 @@ Adrienne Zell [Necessity Is the Mother of Invention: Evolution of a Data Science
 
 ### CS22 - Building and Growing Data Science Teams
 Heather Nolis [Together at Last: Heterogeneous Teams and the Key to Success](http://bit.ly/tmo-sdss )
+
 Mehar Singh [Creating Effective Data Science Teams](https://http://ow.ly/9e8n50uu9rd)
 
 
 ### CS30 - Data Visualization Education
 Michael Freeman [Teaching Data Visualization: Integrating Theory and Practice](https://docs.google.com/presentation/d/1dO5mMqm3GTi8R-svr-QKbs81uaury0rlgIvZZg-SHcY/edit#slide=id.g199dea81af_1_0)
+
 Jerzy Wieczorek [A Three-Part Data Visualization Curriculum](https://github.com/civilstat/SDSS-2019-DatavizEd/blob/master/slides/SDSS_Slides.pdf)
 
 
 ### CS36 - Democratizing Data Science with Workflows
 Michael I. Love [Publishing Literate Programming Workflows in Scientific Journals](https://docs.google.com/presentation/d/1qFUgYpHDmy68-oaaWS196zrsACtiyj2C65GZAjDDyNs/edit#slide=id.p)
+
 Tiffany Timbers [When Should You Add Github, Make and Docker to Your Data Science Workflow?](https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html#1)
+
 Stephanie Hicks [Useful Tools for Teaching and Outreach in Data Science: Workflows, Case Studies, Github
 Classroom, and Slack](https://speakerdeck.com/stephaniehicks/useful-tools-for-teaching-and-outreach-in-data-science)
 
