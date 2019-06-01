@@ -10,4 +10,4 @@ The second annual Symposium on Data Science and Statistics was held by the Ameri
 
 **[e-posters](eposters.md)**
 
-**[Hackathon]()**
+**[Hackathon](https://github.com/Reed-Statistics/SDSS2019-Hack)**
