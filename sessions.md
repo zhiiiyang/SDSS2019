@@ -87,6 +87,9 @@ Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis 
 ### CS48 - Recent Advances in Statistical Network Analysis
 David Hunter [Model-based clustering of large networks](http://personal.psu.edu/drh20/papers/HunterSDSS2019.pdf)
 
+### CS50 - Developing Statistical Software For Drug Development
+Will Landau [Reproducible Computation at Scale in R](https://wlandau.github.io/sdss2019/#1)
+
 
 ### CS52 - Grammar of Graphics: From Theory to Applications
 
