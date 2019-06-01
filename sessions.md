@@ -1,6 +1,9 @@
 ### CS01 - Teaching Statistics More Effectively to a New Generation of Students
 Amelia McNamara [Teaching Data Communication](https://www.amelia.mn/TeachingDataCommunication.pdf)
 
+### CS05 - Scaling Up Machine Learning to Production
+Amy Unruh ['ML Ops' and Productionizing Machine Learning Workflows](https://storage.googleapis.com/amy-jo/talks/SDSS19.pdf) 
+
 ### CS06 - Visual Storytelling
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
 
