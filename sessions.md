@@ -73,6 +73,10 @@ Kelly Nicole Bodwin [Tools for R in Introductory Statistics Courses](https://git
 ### CS41 - Incorporating Ethics and Inclusion in Undergraduate Statistics Curriculum
 Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis of Social Network Data](http://www.science.smith.edu/~mott/SDSS2019.html)
 
+### CS48 - Recent Advances in Statistical Network Analysis
+David Hunter [Model-based clustering of large networks](http://personal.psu.edu/drh20/papers/HunterSDSS2019.pdf)
+
+
 ### CS52 - Grammar of Graphics: From Theory to Applications
 
 Claus Wilke [ggplot2: An Extensible Platform for Publication-quality Graphics](https://www.slideshare.net/ClausWilke/ggplot2-an-extensible-platform-for-publicationquality-graphics)
