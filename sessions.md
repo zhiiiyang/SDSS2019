@@ -84,6 +84,9 @@ Daniela Huppenkothen [Hack Weeks as a Model for Data Science Education and Colla
 ### CS41 - Incorporating Ethics and Inclusion in Undergraduate Statistics Curriculum
 Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis of Social Network Data](http://www.science.smith.edu/~mott/SDSS2019.html)
 
+Brianna Heggeseth [Intertwining Data Ethics into Intro Stats](https://drive.google.com/file/d/1GXzVMpb6GVNfWPS6bd9jggtqq1C77Wsc/view)
+
+
 ### CS48 - Recent Advances in Statistical Network Analysis
 David Hunter [Model-based clustering of large networks](http://personal.psu.edu/drh20/papers/HunterSDSS2019.pdf)
 
