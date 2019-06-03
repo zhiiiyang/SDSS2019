@@ -28,6 +28,8 @@ John Laudun [Data Science In/Among/With/Toward the Humanities](https://github.co
 ### CS11 - Data Visualization in Python
 Stephen F. Elston [Introduction to Visualization with Python](https://github.com/StephenElston/SDSS2019VisualizatonW_Python/blob/master/DataVisualizationW_Python.pdf)
 
+### CS13 - Computationally Intensive Methods: Resampling and MCMC
+Christina Phan Knudson [Gelman-Rubin: Improved Stability and a Principled Threshold](http://cknudson.com/Presentations/SDSS.pdf)
 
 ### CS15 - Linguistic Diversity in NLP
 Brandeis Hill Marshall [Learning the Language of BlackTwitter](https://docs.wixstatic.com/ugd/d6aa46_703f0dd9b71a4cd6b0b678947d11b489.pdf)
