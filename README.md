@@ -11,3 +11,5 @@ The second annual Symposium on Data Science and Statistics was held by the Ameri
 **[e-Posters](eposters.md)**
 
 **[Hackathon](https://github.com/Reed-Statistics/SDSS2019-Hack)**
+
+Since the links were directed to the talk slides, you can often find more contents by checking out the repo where the slides were saved. 
