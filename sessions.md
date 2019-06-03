@@ -7,6 +7,9 @@ Amy Unruh ['ML Ops' and Productionizing Machine Learning Workflows](https://stor
 Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_05_30_SDSS_H2O_AutoML/h2o_automl_sdss_may2019.pdf)
 
 ### CS03 - Open Source and Community
+
+Karthik Ram [What it takes to sustain an open source project](http://inundata.org/talks/sdss/#/)
+
 Mara Averick [Sustainers of the Tidyverse](https://github.com/batpigandme/sdss-2019/blob/master/maverick_sustiners_of_the_tidyverse_sdss.pdf)
 
 
