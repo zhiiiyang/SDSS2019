@@ -91,6 +91,10 @@ Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis 
 
 Brianna Heggeseth [Intertwining Data Ethics into Intro Stats](https://drive.google.com/file/d/1GXzVMpb6GVNfWPS6bd9jggtqq1C77Wsc/view)
 
+### CS45 - Change Point Detection
+Matthew A. Hawks [Graph Theoretic Statistics for Change Detection and Localization in Multivariate Data](files/Hawks_ChangeDetection.pdf)
+
+
 
 ### CS48 - Recent Advances in Statistical Network Analysis
 David Hunter [Model-based clustering of large networks](http://personal.psu.edu/drh20/papers/HunterSDSS2019.pdf)
