@@ -21,6 +21,7 @@ Alberto Cairo [What You Design Is Not What People See](https://www.dropbox.com/s
 ### CS07 - Reimagining & Introducing New Pedagogy
 Ted Laderas [Clinical Data Wrangling: An Active and Didactic Learning Workshop](https://github.com/laderast/clinical_data_wrangling/blob/master/docs/cdw_laderas.pptx)
 
+Brendan Patrick Purdy [Data Science and the Pedagogical Reform of Introductory Statistics](files/Purdy_SDSS19.pdf)
 
 ### CS09 - Project Jupyter
 Chris Holdgraf [Open Infrastructure in the Cloud with JupyterHub](https://speakerdeck.com/choldgraf/open-infrastructure-in-the-cloud-with-jupyterhub)
