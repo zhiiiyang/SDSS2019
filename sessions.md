@@ -27,7 +27,7 @@ Brendan Patrick Purdy [Data Science and the Pedagogical Reform of Introductory S
 Chris Holdgraf [Open Infrastructure in the Cloud with JupyterHub](https://speakerdeck.com/choldgraf/open-infrastructure-in-the-cloud-with-jupyterhub)
 
 ### CS10 - Data Science's X-Factor
-John Laudun [Data Science In/Among/With/Toward the Humanities](https://github.com/johnlaudun/SDSS2019/blob/master/paper-slides.pdf) ([code](https://github.com/johnlaudun/SDSS2019))
+John Laudun [Data Science In/Among/With/Toward the Humanities](https://github.com/johnlaudun/SDSS2019/)
 
 ### CS11 - Data Visualization in Python
 Stephen F. Elston [Introduction to Visualization with Python](https://github.com/StephenElston/SDSS2019VisualizatonW_Python/blob/master/DataVisualizationW_Python.pdf)
