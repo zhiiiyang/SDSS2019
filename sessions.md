@@ -64,6 +64,8 @@ Heather Nolis [Together at Last: Heterogeneous Teams and the Key to Success](htt
 
 Mehar Singh [Creating Effective Data Science Teams](https://http://ow.ly/9e8n50uu9rd)
 
+### CS28 - Data Science Ethics Meet Reality
+Anissa Tanweer [Beyond Methodological Rigor: Widening the Scope of Ethics in Data Science ](https://drive.google.com/open?id=1vs6PJFo2SQwl7BjjO6xvmHOGp_z0itLP)
 
 ### CS30 - Data Visualization Education
 Michael Freeman [Teaching Data Visualization: Integrating Theory and Practice](https://docs.google.com/presentation/d/1dO5mMqm3GTi8R-svr-QKbs81uaury0rlgIvZZg-SHcY/edit#slide=id.g199dea81af_1_0)
