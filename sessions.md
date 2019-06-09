@@ -1,17 +1,15 @@
 ### CS01 - Teaching Statistics More Effectively to a New Generation of Students
 Amelia McNamara [Teaching Data Communication](https://www.amelia.mn/TeachingDataCommunication.pdf)
 
-### CS05 - Scaling Up Machine Learning to Production
-Amy Unruh ['ML Ops' and Productionizing Machine Learning Workflows](https://storage.googleapis.com/amy-jo/talks/SDSS19.pdf)
-
-Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_05_30_SDSS_H2O_AutoML/h2o_automl_sdss_may2019.pdf)
-
 ### CS03 - Open Source and Community
-
 Karthik Ram [What it takes to sustain an open source project](http://inundata.org/talks/sdss/#/)
 
 Mara Averick [Sustainers of the Tidyverse](https://github.com/batpigandme/sdss-2019/blob/master/maverick_sustiners_of_the_tidyverse_sdss.pdf)
 
+### CS05 - Scaling Up Machine Learning to Production
+Amy Unruh ['ML Ops' and Productionizing Machine Learning Workflows](https://storage.googleapis.com/amy-jo/talks/SDSS19.pdf)
+
+Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_05_30_SDSS_H2O_AutoML/h2o_automl_sdss_may2019.pdf)
 
 ### CS06 - Visual Storytelling
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
