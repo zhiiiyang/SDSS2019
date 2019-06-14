@@ -30,6 +30,8 @@ John Laudun [Data Science In/Among/With/Toward the Humanities](https://github.co
 ### CS11 - Data Visualization in Python
 Stephen F. Elston [Introduction to Visualization with Python](https://github.com/StephenElston/SDSS2019VisualizatonW_Python/blob/master/DataVisualizationW_Python.pdf)
 
+Dominik Moritz [Altair: Declarative Visualization in Python - Part 1](https://github.com/vega/vega-lite-tutorials/blob/master/sdss2019/)
+
 ### CS13 - Computationally Intensive Methods: Resampling and MCMC
 Christina Phan Knudson [Gelman-Rubin: Improved Stability and a Principled Threshold](http://cknudson.com/Presentations/SDSS.pdf)
 
