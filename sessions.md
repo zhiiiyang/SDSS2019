@@ -88,6 +88,7 @@ Kelly Nicole Bodwin [Tools for R in Introductory Statistics Courses](https://git
 
 Daniela Huppenkothen [Hack Weeks as a Model for Data Science Education and Collaboration](https://github.com/dhuppenkothen/sdss-talk/blob/master/dhuppenkothen_sdss_talk.pdf)
 
+Todd Iverson [Teaching Data Science Students to Write Clean Code](https://github.com/WSU-DataScience/SDSS2019_clean_data)
 
 ### CS41 - Incorporating Ethics and Inclusion in Undergraduate Statistics Curriculum
 Miles Q. Ott [Ethics in an Advanced Undergraduate Seminar: Statistical Analysis of Social Network Data](http://www.science.smith.edu/~mott/SDSS2019.html)
