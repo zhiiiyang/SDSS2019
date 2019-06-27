@@ -150,6 +150,7 @@ Pranita Pramod Patil [Extracting Signal from the Noisy Environment of an Ecosyst
 
 ### CS45 - Change Point Detection
 Kwadwo Agyei Nyantakyi [Detection of Structural Changes in Correctly Specified and Misspecified Conditional Quantile Polynomial Distributed Lag (QPDL) Model Using Change-Point Analysis](files/Nyantakyi_CS45.pdf)
+
 Matthew A. Hawks [Graph Theoretic Statistics for Change Detection and Localization in Multivariate Data](files/Hawks_ChangeDetection.pdf)
 
 ### CS46 - Recent Advancements in Deep Learning 
