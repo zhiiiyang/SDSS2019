@@ -1,12 +1,18 @@
-Matthew A. Hawks [The Daily Question: Building Student Trust and Interest in Undergraduate Introductory Probability and Statistics Courses](files/Hawks_PS01.pdf)
+### PS01 - Opening Mixer & E-Posters 
 
 Weichuan Dong [Spatial Statistics and Visualization of Public Health Outcomes](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/ViewPresentation.cfm?file=306379.pptx)
+
+Matthew A. Hawks [The Daily Question: Building Student Trust and Interest in Undergraduate Introductory Probability and Statistics Courses](files/Hawks_PS01.pdf)
+
+Silas Bergen [Extending the Grammar of Graphics beyond ggplot2](https://github.com/WSU-DataScience/SDSS19_data_viz_poster/blob/master/SDSS19_DataViz_Poster.pptx)
 
 Carlos M. Lopera-Gómez [A Shiny Application to Teach the Multiple Linear Regression Analysis in a Undergraduate Course](files/Lopera-Gómez_PS01.pdf)
 
 Benjamin Kenneth Brown [Predicting Matriculation Rates of Dual Enrollment High School Students](files/Brown_PS01.pptx)
 
 Songtao Wang [A Meta-analysis on the Effect of Information and Communication Technology Tools in Second Language Acquisition](files/Wang_PS01.ppt)
+
+### PS02 - Data Science Applications E-Posters, I 
 
 Christine P. Chai [Automated Survey Text Analysis -- Supervised Latent Dirichlet Allocation (sLDA)](https://github.com/star1327p/SDSS2019-ChristineChai-Poster/blob/master/SDSS_2019_E-Poster_0510_2.pdf)
 
@@ -18,7 +24,7 @@ Dhrubajyoti Ghosh [Analyzing Influence of Social Media Through Twitter](files/Gh
 
 Vijay Ravuri [Gender Distribution in Movie Roles](files/Ravuri_PS02.pdf)
 
-Silas Bergen [Extending the Grammar of Graphics beyond ggplot2](https://github.com/WSU-DataScience/SDSS19_data_viz_poster/blob/master/SDSS19_DataViz_Poster.pptx)
+### PS03 - Data Science Applications E-Posters, II 
 
 Lin Wang [Usability evaluation of data presentation for official statistics](files/Wang_PS03.pdf)
 
@@ -28,6 +34,8 @@ Megan Shand [Handling Missing Data in Cardiovascular Disease Prediction Using Ne
 
 Yirui Hu [Leverage Machine Learning to Advance Risk Prediction with Electronic Health Record](files/Hu_PS03.pdf)
 
+### PS04 - Machine Learning E-Posters, I 
+
 Allan Kimaina [Harnessing The Power Of Machine Learning Methods In Hiv Virologic Failure Risk Prediction](files/Kimaina_PS04.pdf)
 
 Albert Taylor [Rapid deployment of a Machine Learning-based derived biomarker using publicly available data sources for covariate adjusted descriptive modeling](Taylor_PS04.pdf) 
@@ -36,9 +44,12 @@ Thomas Charles McAndrew [Adaptively Stacked Ensembles for Influenza Forecasting 
 
 Yihuan Huang [Comparing Performance of Lasso, Group Lasso, and Linear Regression with Categorical Predictors](files/Huang_PS04.pdf)
 
+### PS05 - Machine Learning E-Posters, II 
+
 Amrina Ferdous [On Combining Data from Distinct Nonlinear Predictive Models](files/Ferdous_PS05.pdf)
 
 Allan Kimaina [Harnessing The Power Of Machine Learning Methods In Prospective Hiv Care And Treatment](Kimaina_PS05.pdf)
 
+### PS06 - Computational Statistics E-Posters 
 
-
+More posters on the [SDSS 2019 website](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/Program.cfm?date=06-01-19)
