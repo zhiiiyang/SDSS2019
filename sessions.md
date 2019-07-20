@@ -12,7 +12,6 @@ Mara Averick [Sustainers of the Tidyverse](https://github.com/batpigandme/sdss-2
 Gabriela de Queiroz [Building a Community: The R-Ladies Story](files/Queiroz_CS03.pdf)
 
 ### CS04 - Recent Developments in Lower Rank Learning for Complex Data 
-
 Jan Hannig [Deep Fiducial Inference](files/Hannig_CS04.pdf)
 
 ### CS05 - Scaling Up Machine Learning to Production
@@ -24,8 +23,6 @@ Erin LeDell [Scalable Automatic Machine Learning with H2O](https://github.com/h2
 Alberto Cairo [What You Design Is Not What People See](files/Cairo_CS06.pdf)
 
 Matthew Brehmer [The Design and Evaluation of Expressive Visualization Tools for Data-Driven Storytelling](https://mattbrehmer.github.io/talks/sdss190530/)
-
-Alberto Cairo [What You Design Is Not What People See](https://www.dropbox.com/s/nqhl6w9ey3jgnwe/SDSS2019_SHORT.pdf?dl=0)
 
 ### CS07 - Reimagining & Introducing New Pedagogy
 Tim Erickson [What Can Data Science Look Like in High School?](files/Erickson_CS07.pdf)
